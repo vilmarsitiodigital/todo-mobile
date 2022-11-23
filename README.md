@@ -38,7 +38,7 @@
   <a href="#-license">License</a>
 </p>
 
-## ⚽ About the project
+## ✅ About the project
 
 This project is the first ignite Rocketseat challenge from the react native study platform.
 

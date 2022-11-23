@@ -46,6 +46,10 @@ The user can register one or several tasks.
 
 After that he can mark it as completed or delete it.
 
+<h1 align="center">
+  <img alt="TodoMobile" src="https://res.cloudinary.com/vilmarbatista/image/upload/v1669201493/Development/Ignite/todo_jssfe7.gif" width="100%" />
+</h1>
+
 ## 🚀 Technologies
 
 Technologies that I used to develop this api
